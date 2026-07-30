@@ -11,13 +11,13 @@ I develop buildable robotic systems from mechanical design and simulation to con
 
 ---
 
-## 🏆 Highlights
+## 🧩 What I Work On
 
-- 🏅 Recipient of the **Innovation Leadership Award**
-- 🎓 Recipient of the **Academic Excellence Award**
-- 🖼️ Recipient of a **SURF Best Poster Award**
-- 🤖 Project experience in robotic manipulation, mobile robotics and bio-inspired mechanisms
-- 🛠️ End-to-end development from concept and CAD to simulation, control, prototyping and testing
+- 🤖 Desktop robotic manipulation and human–robot collaboration
+- 🛣️ Mobile manipulators for automated inspection and repair
+- 🐢 Bio-inspired robotic mechanisms and motion simulation
+- 🛠️ Mechanical design, system integration and physical prototyping
+- 🧠 Teleoperation, robot learning and embodied intelligence
 
 ---
 
